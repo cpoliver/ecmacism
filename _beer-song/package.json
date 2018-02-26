@@ -67,5 +67,7 @@
   "licenses": [
     "MIT"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
 }
